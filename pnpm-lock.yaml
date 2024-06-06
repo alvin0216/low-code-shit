@@ -10,6 +10,9 @@ importers:
 
   packages/designer:
     dependencies:
+      '@unocss/reset':
+        specifier: ^0.60.4
+        version: 0.60.4
       ahooks:
         specifier: ^3.8.0
         version: 3.8.0(react@18.3.1)
