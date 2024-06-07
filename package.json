@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "pnpm --filter designer run dev",
-    "build": "pnpm --filter designer run build"
+    "dev": "pnpm --filter @lcs/designer run dev",
+    "build": "pnpm --filter @lcs/designer run build"
   },
   "keywords": [],
   "author": "",

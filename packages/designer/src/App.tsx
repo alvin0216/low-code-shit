@@ -1,3 +1,4 @@
+import { LButton } from '@lcs/materials';
 import { Button } from 'antd';
 
 interface AppProps {}
@@ -13,6 +14,7 @@ const App: React.FC<AppProps> = () => {
         <li>1</li>
         <li>1</li>
       </ul>
+      <LButton />
     </div>
   );
 };
